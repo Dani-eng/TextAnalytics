@@ -1,3 +1,5 @@
+I am going to be **talking a bit** of _nonsense_ here this is all about explaining markdown.
+
 fglsagfdkshjg fds `var PropertyName = "City";` fslb kfds gfd
 
 ``` csharp
