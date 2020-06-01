@@ -17,11 +17,13 @@ kjfbds a,kfgjdsbdf, gbdfs, gfbds,fg dbd bgf, | lh rfjklhr ewlkgrbegrekjw bfrlwk 
 [Play Store](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en) | [App Store](https://itunes.apple.com/us/app/medium/id828256236?mt=8) | [Just web, LOL](https://medium.com/)
 ![](android.png) | ![iOS](ios.png) |
 
-
+Checkboxes
 * [ ] task 1
 + [ ] task 2
 - [ ] task 3
+- [ ] task 4
 
+Ordered List
 1. bfdsnagfsdh
    1. gfdgsdfgf
       1. gfdgfd
@@ -30,6 +32,16 @@ kjfbds a,kfgjdsbdf, gbdfs, gfbds,fg dbd bgf, | lh rfjklhr ewlkgrbegrekjw bfrlwk 
 3. fsfre
 
 ~~I am going to be __*talking a*__ bit of *nonsense* in here, this is all about explaining markdown.~~
+
+*Italic Text*
+_Italic Text_
+**Bold Text**
+__Bold Text__
+***Italic and Bold Text***
+___Italic and Bold Text___
+
+~~This text is struckthrough.~~ This one isn’t. -> use ~~
+
 
 > You **said** balgndshagjfsa
 
@@ -40,6 +52,7 @@ kjfbds a,kfgjdsbdf, gbdfs, gfbds,fg dbd bgf, | lh rfjklhr ewlkgrbegrekjw bfrlwk 
 ###### Header 6
 (header 6 is the maximum, header 7 would not work)
 
+Unordered list 
 - this the first element
    - rgdg
 - grdsgfd
