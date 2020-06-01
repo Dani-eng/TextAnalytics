@@ -38,6 +38,7 @@ kjfbds a,kfgjdsbdf, gbdfs, gfbds,fg dbd bgf, | lh rfjklhr ewlkgrbegrekjw bfrlwk 
 ## Header 2
 
 ###### Header 6
+(header 6 is the maximum, header 7 would not work)
 
 - this the first element
    - rgdg
